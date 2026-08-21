@@ -1,0 +1,4 @@
+interface:
+  display_name: "Collate Content Eval"
+  short_description: "Score and improve Collate content quality"
+  default_prompt: "Use $collate-content-eval to evaluate and improve this Collate content until it passes every quality gate."
