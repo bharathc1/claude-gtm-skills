@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Marketing Specialist"
+  short_description: "Strategic product messaging for Collate"
+  default_prompt: "Use $product-marketing-specialist to sharpen Collate positioning, messaging, or conversion copy."
